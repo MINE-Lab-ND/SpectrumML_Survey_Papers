@@ -1,4 +1,4 @@
-```markdown
+
 # Awesome Machine Learning for Spectroscopic Analysis
 
 A curated collection of research at the intersection of machine learning and spectroscopic analysis.  
@@ -132,5 +132,3 @@ Contributions, additions, or updates are welcome! Feel free to open an issue or 
 
 ## Contact
 **Maintainer**: [Your Name / Email / Social Media]
-
-```
