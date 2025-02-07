@@ -1,6 +1,7 @@
 
 # Awesome Machine Learning for Spectroscopic Analysis
-
+![Timeline of ML progression and its application to spectroscopic studies](Figures/timeline_3.png)
+![Relationship between **Spectrum Space** and **Molecule Space**, focusing on inverse (spectrum to molecule) and forward (molecule to spectrum) problems. Key tasks include: **A)** Spectrum vector-based property prediction, **B)** Spectrum sequence-based molecule generation, **C)** Spectrum image-based functional group identification, **D)** Spectroscopic property prediction using fingerprints, **E)** Spectrum generation from molecular graphs, and **F)** Multi-modal, multi-space generation via foundation models.](Figures/IJCAI_Survey_figure_2.png)
 A curated collection of research at the intersection of machine learning and spectroscopic analysis.  
 We group the papers under fewer, broader headings—primarily **Structure Elucidation**, **Spectra Prediction**, **Other ML-based Spectroscopic Applications**, and **Reviews and Perspectives**.  
 
