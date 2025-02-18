@@ -17,7 +17,7 @@ We group the papers under fewer, broader headings—primarily **Structure Elucid
 ---
 
 ## Structure Elucidation
-
+ 
 - [2024/11] [Leveraging infrared spectroscopy for automated structure elucidation](https://www.nature.com/articles/s42004-024-01341-w)  
 - [2024/11] [Spectro: A multi-modal approach for molecule elucidation using IR and NMR data](https://openreview.net/forum?id=K5U7D7YpN0)  
 - [2024/11] [Can LLMs Solve Molecule Puzzles? A Multimodal Benchmark for Molecular Structure Elucidation](https://github.com/KehanGuo2/MolPuzzle)
